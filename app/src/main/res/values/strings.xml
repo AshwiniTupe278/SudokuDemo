@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SudokuDemo</string>
+
+        <string name="title">Sudoku</string>
+        <string name="action_settings">Settings</string>
+        <string name="level_1">Level 1</string>
+        <string name="submit">Submit</string>
+
+        <string name="tile_desc">Sudoku Tile</string>
+
+</resources>
